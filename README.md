@@ -9,7 +9,7 @@ Ejemplo:
 
 ![image](https://github.com/user-attachments/assets/8c45b6bb-4efa-492c-9078-b0c17a7eda9a)
 
-3. Introduzca el número 1 para **Detectar mutantes**, 2 para **Mutar el ADN**, 3 para **Sanar el ADN ó 4 para **Salir del programa**.
+3. Introduzca el número 1 para **Detectar mutantes**, 2 para **Mutar el ADN**, 3 para **Sanar el ADN** ó 4 para **Salir del programa**.
 
 ![image](https://github.com/user-attachments/assets/9013f322-5eeb-4289-9a1c-eb1055ecebbf)
 
